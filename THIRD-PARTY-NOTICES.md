@@ -13,3 +13,8 @@ Barlow Condensed and Outfit are bundled locally under the SIL Open Font License.
 https://fonts.google.com/specimen/Barlow+Condensed
 https://fonts.google.com/specimen/Outfit
 https://openfontlicense.org/
+
+## React libraries
+
+React 18.3.1 and React DOM 18.3.1, Copyright (c) Facebook, Inc. and its affiliates. Distributed under the MIT license. The full license is in assets/REACT-LICENSE.txt.
+Source: https://github.com/facebook/react/tree/v18.3.1
